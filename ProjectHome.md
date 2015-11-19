@@ -1,0 +1,1 @@
+The aim of this project is to share the implementation of  some of the most interesting methods for arrhythmia classification in ECG signal presented in the literature.
